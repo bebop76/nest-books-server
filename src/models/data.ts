@@ -1,4 +1,4 @@
-// Tipo per la risposta della lista di libri di NYTimes
+
 export interface NYTimesBookListResponse {
   list_name: string;
   display_name: string;
